@@ -211,6 +211,7 @@
   minLimit: 0
   loadouts:
   - LizardPlushieHeadOfPersonnel
+  - TP14LoadoutGoldenCoffeeFilterHoP
 
 # Civilian
 - type: loadoutGroup
@@ -302,9 +303,11 @@
   id: BartenderJobTrinkets
   name: loadout-group-jobtrinkets
   minLimit: 0
+  maxLimit: 2
   loadouts:
   - LizardPlushieBartender
   - BartenderGoldenShaker
+  - TP14LoadoutGoldenCoffeeFilterBar
 
 - type: loadoutGroup
   id: ServiceWorkerJobTrinkets
